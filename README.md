@@ -1,18 +1,11 @@
-### Zero Attacker
+### Blast Tools
  
-- 2.0 VERSION IS HERE 
+- 1.0 VERSION IS HERE 
 
-- Zero Attacker is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
+- Blast Tools is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
 
 - Re-Lauch of the tool this time with the source code (remember this is completely basic of the tool for buying additional tools with advance version you can reach out to us on discord, we provide all type of stuff)
 
-- 📣 Website is launching soon https://zerooffenssecurity.cloud/ 
-
-
-
-
-### Paid Tools 
-We are also providing advance paid tools to help you with in different penteration testing, etc (Join the server to know more about it)- [ server](https://discord.gg/J5X3KnBPGe)
 
 
 ### Getting Started
