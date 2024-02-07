@@ -7,7 +7,7 @@ if %errorlevel% neq 0 (
 )
 
 echo Installing Node.js dependencies...
-cd Zero-Tool/nuke-bot
+cd Blast-Tools-v1/nuke-bot
 call npm i
 if %errorlevel% neq 0 (
     echo Failed to install Node.js dependencies. Pausing...
