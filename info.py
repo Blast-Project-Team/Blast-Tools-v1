@@ -2,7 +2,7 @@ import sys,os
 from colorama import Fore
 print(Fore.MAGENTA+"""
 
-Zero Attacker is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
+Blast Tools is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
 
 
 """)
