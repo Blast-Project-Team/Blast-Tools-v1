@@ -1,2 +1,2 @@
 echo Starting Blast Tools...
-python Blast.py
+python blast.py
