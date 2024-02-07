@@ -10,10 +10,10 @@
 
 ### Getting Started
 -  git clone https://github.com/AsjadOooO/Zero-attacker/](https://github.com/Blast-Project-Team/Blast-Tools-v1.git)
-- `cd Blast-Tools`
+- `cd Blast-Tools-v1`
 - `python -m pip install -r requirements.txt`
 - for(Windows user just run the bat file (`install.bat` if running first time else `start.bat`) )
-- run python zero.py
+- run python blast.py
 
 
 ### License
