@@ -16,7 +16,7 @@ Run Python blast.py
 
 
 License
-Zero-Tool is under the MIT License
+Blast Tools is under the MIT License
 Using it without giving us credit would lead to Breaking the License law
 
 
