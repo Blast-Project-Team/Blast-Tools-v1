@@ -9,7 +9,7 @@ Blast Tools is bunch of tools which we made for people.These all tools are for p
 print(Fore.RED+"""Getting Started
 
 git clone https://github.com/AsjadOooO/Zero-attacker/](https://github.com/Blast-Project-Team/Blast-Tools-v1.git
-cd Blast Tools
+cd Blast-Tools-v1
 python -m pip install -r requirements.txt
 for(Windows user just run the bat file (start.bat) )
 Run Python blast.py
