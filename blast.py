@@ -21,7 +21,7 @@ def display_menu():
 
 def execute_command(command):
     if command == '1':
-        os.system('cmd /k "python Blast-Tools/blast-tools.py"' if os.name == 'nt' else 'python Blast-Tools/blast-tools.py')
+        os.system('cmd /k "python Blast-Tools-v1/blast-tools.py"' if os.name == 'nt' else 'python Blast-Tools-v1/blast-tools.py')
     elif command == '2':
         print(Fore.RED + 'This option is not available yet! Coming soon...')
         #os.system('cmd /k "python Zero-Web-Hacktool/web_bugger.py"')
