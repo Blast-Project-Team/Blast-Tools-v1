@@ -9,8 +9,8 @@
 
 
 ### Getting Started
--  git clone https://github.com/AsjadOooO/Zero-attacker/
-- `cd Zero-Attacker`
+-  git clone https://github.com/AsjadOooO/Zero-attacker/](https://github.com/Blast-Project-Team/Blast-Tools-v1.git)
+- `cd Blast-Tools`
 - `python -m pip install -r requirements.txt`
 - for(Windows user just run the bat file (`install.bat` if running first time else `start.bat`) )
 - run python zero.py
@@ -18,29 +18,12 @@
 
 ### License
 
-- Zero-Tool  is under the MIT License
+- Blast Tools  is under the MIT License
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
 ![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/1.jpg)
 ![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/2.jpg)
-
-
-
-### Developer 
-- Zero Offens Security is owned by Asjad and dev7knight
-- Developer are dev7knight,asjad,visa2code 
-- Contact for any kind of help  Asjad#0060 (.asjad) or dev7knight 
-- [support server](https://discord.gg/J5X3KnBPGe)
-
-
-[Asjad Personal Site](https://www.asjad.xyz/) <br>
-[dev7knight Personal discord server](https://discord.gg/ft7Q8y5UT3) <br> 
-[Web-Bugger](https://github.com/dev7knight/WebBugger) <br> 
-[visa2code aka Tejas Lamba](https://github.com/TejasLamba2006) <br>
-
-
-- Zero Tool
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsjasOooO&label=Profile%20views&color=0e75b6&style=flat" alt="Zero-attacker" /> </p> 
 
